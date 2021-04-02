@@ -650,12 +650,6 @@ final List<Country> countryList = [
     iso3Code: "IMN",
   ),
   Country(
-    isoCode: "IL",
-    phoneCode: "972",
-    name: "Israel",
-    iso3Code: "ISR",
-  ),
-  Country(
     isoCode: "IT",
     phoneCode: "39",
     name: "Italy",
